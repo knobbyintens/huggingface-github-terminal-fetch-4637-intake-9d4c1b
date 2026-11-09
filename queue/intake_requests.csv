@@ -1,0 +1,12 @@
+request_id,dataset_id,requester,intended_use,justification
+DS-1101,openai/gsm8k,Research Platform,production,Reference benchmark for arithmetic reasoning evaluation in the platform suite.
+DS-1102,HuggingFaceH4/ultrachat_200k,Conversational AI,research,Instruction-tuning data for the internal chat assistant pilot.
+DS-1103,liwu/MNBVC,Language Data Team,evaluation,Chinese web corpus sample used to test language coverage.
+DS-1104,KakologArchives/KakologArchives,Japanese NLP Group,research,Japanese comment corpus for sentiment experiments.
+DS-1105,deepset/germanquad,Enterprise QA,production,German question-answering benchmark for the support bot.
+DS-1106,tatsu-lab/alpaca,Instruction Tuning,production,Instruction-following data for internal model tuning.
+DS-1107,rajpurkar/squad,Evaluation Team,research,Reading-comprehension evaluation baseline.
+DS-1108,GEM/mlsum,Summarization Lab,evaluation,Multilingual summarization benchmark for the lab.
+DS-1109,cornell-movie-review-data/rotten_tomatoes,Sentiment Team,evaluation,Classic sentiment baseline dataset.
+DS-1110,lmsys/lmsys-chat-1m,Chat Analytics,research,Large-scale conversation logs for research analysis.
+DS-1111,ghost-labs-4637/phantom-corpus,Data Discovery,research,Candidate corpus discovered during a literature scan.
