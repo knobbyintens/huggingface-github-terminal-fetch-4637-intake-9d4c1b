@@ -1,0 +1,12 @@
+request_id,dataset_id,decision,reason,catalog_path
+DS-1101,openai/gsm8k,approved,license mit is pre-cleared,catalog/openai__gsm8k.md
+DS-1102,HuggingFaceH4/ultrachat_200k,approved,license mit is pre-cleared,catalog/HuggingFaceH4__ultrachat_200k.md
+DS-1103,liwu/MNBVC,approved,license mit is pre-cleared,catalog/liwu__MNBVC.md
+DS-1104,KakologArchives/KakologArchives,approved,license mit is pre-cleared,catalog/KakologArchives__KakologArchives.md
+DS-1105,deepset/germanquad,approved,license cc-by-4.0 is pre-cleared,catalog/deepset__germanquad.md
+DS-1106,tatsu-lab/alpaca,legal_review,license cc-by-nc-4.0 requires legal review,
+DS-1107,rajpurkar/squad,legal_review,license cc-by-sa-4.0 requires legal review,
+DS-1108,GEM/mlsum,legal_review,license other requires legal review,
+DS-1109,cornell-movie-review-data/rotten_tomatoes,rejected,no verifiable license declared,
+DS-1110,lmsys/lmsys-chat-1m,rejected,repository is gated and cannot be provisioned automatically,
+DS-1111,ghost-labs-4637/phantom-corpus,rejected,dataset could not be resolved on the hub,
